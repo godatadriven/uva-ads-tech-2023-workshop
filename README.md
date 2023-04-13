@@ -34,7 +34,7 @@ Hi! Let's get you logged into the SageMaker Studio environment and start buildin
 
     ![](docs/sm-studio-just-opened.png)
 
-6. On the left-hand side, go to Git:
+7. On the left-hand side, go to Git:
 
     ![](docs/git-clone-aws-studio.png)
 
@@ -48,11 +48,15 @@ Hi! Let's get you logged into the SageMaker Studio environment and start buildin
     https://github.com/godatadriven/code-breakfast-aws-sagemaker.git
     ```
 
-6. Open up the `basic-pipeline.ipynb`:
+8. Open up the `basic-pipeline.ipynb`:
 
     ![](docs/basic-pipeline.png)
 
-7. Lastly, make sure to modify the username:
+9. Select the following for the environment on which the notebook will run:
+    ![](docs/notebook-env.png)
+
+
+10. Lastly, make sure to modify the username:
 
     ![](docs/modify-username-in-notebook.png)
 
