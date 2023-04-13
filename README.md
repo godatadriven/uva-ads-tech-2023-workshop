@@ -45,7 +45,7 @@ Hi! Let's get you logged into the SageMaker Studio environment and start buildin
     Enter the following Git URL:
 
     ```
-    https://github.com/godatadriven/code-breakfast-aws-sagemaker.git
+    https://github.com/godatadriven/uva-ads-tech-2023-workshop
     ```
 
 8. Open up the `basic-pipeline.ipynb`:
